@@ -33,5 +33,4 @@ min = float(input("enter the minutes"))
 hrs = min/60
 print("answer is :",hrs)
 
-#calculate average of numbers
-#convert doller to rupees
+
